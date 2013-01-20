@@ -1,0 +1,52 @@
+.nggom_box {
+    border:1px solid #EEE;
+    background-color:#FAFAFA;
+    padding:0px 15px 15px 15px;
+    margin:0 0 15px 0
+}
+
+.nggmo_select_style, .nggo_custom_style {
+    float:left
+}
+
+.nggom_custom_style {
+    margin-left:20px;
+    border-left:1px solid #EEE;
+    padding-left:20px
+}
+
+.nggom_inner {
+    padding:0 0 15px 0
+}
+
+.button-primary {
+    margin:0
+}
+.nggom_support_info_box {
+	float: left;
+    border:1px solid #E3E3E3;
+    background-color:#FFFBCC;
+    padding:0px 15px 15px 15px;
+    margin:0 0 15px 0
+	
+}
+
+#nggom_submit_options {
+    padding:0;
+    margin:0;
+}
+
+.nggom_small {
+    font-weight:normal;
+    font-size:10px;
+    line-height:1.4em;
+    padding:0;
+    margin:0;
+}
+
+.nggom_h3 {
+    font-weight:bold;
+    font-size:16px;
+    margin:0;
+    padding:10px 0 5px 0;
+}
